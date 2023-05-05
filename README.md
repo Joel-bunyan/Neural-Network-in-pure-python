@@ -1,1 +1,1 @@
-# Neural-Network-in-pure-python
+You already learned how  a single neuron model can update it's weights to rget the mapping between the inputs and the outputs. Here, we are going to build a network of different layers containing as many neurons as you want. And we are going to develop the algorithm that can allow the passage of graient from the alst to the first layer and each layer will update the internal weights of each neuron. For more intuitional understanding of this architecture watch my youtube video : https://youtu.be/5mOsqa-lgXs   
